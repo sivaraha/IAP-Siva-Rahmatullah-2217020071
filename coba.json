@@ -1,0 +1,33 @@
+[
+{
+    "nama" : "Siva",
+    "umur" : 20,
+    "nim"  : "2217020071",
+    "lulus" : true,
+    "hobby": [
+        "membaca",
+        "menonton"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Oh Sehun",
+        "pembimbing2" : "Kim Mingyu"
+    }
+
+},
+
+{
+    "nama" : "Siva",
+    "umur" : 20,
+    "nim"  : "2217020071",
+    "lulus" : true,
+    "hobby": [
+        "membaca",
+        "menonton"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Oh Sehun",
+        "pembimbing2" : "Kim Mingyu"
+    }
+
+}
+]
