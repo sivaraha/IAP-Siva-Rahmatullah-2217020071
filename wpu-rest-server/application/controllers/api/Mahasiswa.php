@@ -43,7 +43,7 @@ class mahasiswa extends REST_Controller {
         if ($id == null) {
             $this->response([
                     'status' => false,
-                    'message' => 'provide an id! '
+                    'message' => 'provide an id'
                 ], REST_Controller::HTTP_BAD_REQUEST);
         } else {
             if ($this->mahasiswa->deleteMahasiswa($id) > 0) {
