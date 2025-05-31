@@ -96,10 +96,10 @@ $gambar1 = $resultGambar1['media_url'];
         </div>
         <div class="row justify-content-center">
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Hai, aku Siva Rahmatullah. Saat ini aku menempuh studi di jurusan Sistem Informasi. Buatku, teknologi itu bukan cuma soal alat atau sistem—tapi cara baru bercerita, menyelesaikan masalah, dan memberi dampak. Aku suka belajar hal-hal baru, eksplorasi ide, dan bikin sesuatu yang punya makna.</p>
           </div>
           <div class="col-md-5">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, molestiae sunt doloribus error ullam expedita cumque blanditiis quas vero, qui, consectetur modi possimus. Consequuntur optio ad quae possimus, debitis earum.</p>
+            <p>Di luar layar, aku jatuh cinta pada dunia buku. Dari cerita fiksi yang menenangkan sampai tulisan reflektif yang menggugah pikiran—semuanya punya tempat di rak dan di hati. Buku selalu jadi ruang tenangku, tempat berpikir tanpa suara, tapi penuh makna.</p>
           </div>
         </div>
       </div>
@@ -174,27 +174,30 @@ $gambar1 = $resultGambar1['media_url'];
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/1.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/creditfraud.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Data Mining • Python • Machine Learning
+Membangun model klasifikasi untuk mendeteksi transaksi mencurigakan menggunakan dataset keuangan dan algoritma Random Forest.</p>
               </div>
             </div>
           </div>
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/2.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/nvlharuki (2).png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Melankolia, Cinta, dan Pencarian Jati Diri
+Sebuah novel coming-of-age yang emosional dan introspektif. Lewat kisah Toru Watanabe, saya belajar tentang kehilangan, pencarian makna, dan pentingnya memahami emosi manusia—nilai yang tak kalah penting dalam membangun teknologi yang empatik.</p>
               </div>
             </div>
           </div>
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/3.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/preeklampsia.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Random Forest • SHAP & LIME • Data Kesehatan
+Model prediktif berbasis machine learning untuk mendeteksi risiko preeklampsia pada ibu hamil, disertai interpretasi hasil model.</p>
               </div>
             </div>
           </div>   
@@ -203,17 +206,19 @@ $gambar1 = $resultGambar1['media_url'];
         <div class="row">
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/4.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/sisfopdgtv.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">PHP • Bootstrap • MySQL
+Aplikasi web HR untuk mengelola data karyawan dan penggajian, dengan fitur login role-based, cetak kartu, slip gaji, dan ekspor data.</p>
               </div>
             </div>
           </div> 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/5.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/nvlhiromi.png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+                <p class="card-text">Kisah Sunyi yang Penuh Rasa
+Novel yang hangat dan melankolis, tentang hubungan dua manusia yang tidak biasa. Mengajarkan pentingnya keheningan, perhatian kecil, dan bagaimana cerita sederhana bisa begitu dalam—refleksi yang juga penting dalam mendesain pengalaman pengguna.
                 </p>
               </div>
             </div>
@@ -221,9 +226,10 @@ $gambar1 = $resultGambar1['media_url'];
 
           <div class="col-md mb-4">
             <div class="card">
-              <img class="card-img-top" src="img/thumbs/6.png" alt="Card image cap">
+              <img class="card-img-top" src="img/thumbs/cms (2).png" alt="Card image cap">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Full-Stack • Portfolio Online
+Situs pribadi yang menampilkan karya, blog, dan identitas digital. Dirancang dari nol dengan pendekatan clean, modern, dan naratif.</p>
               </div>
             </div>
           </div>
@@ -253,8 +259,8 @@ $gambar1 = $resultGambar1['media_url'];
             <ul class="list-group mb-4">
               <li class="list-group-item"><h3>Location</h3></li>
               <li class="list-group-item">My Office</li>
-              <li class="list-group-item">Jl. Setiabudhi No. 193, Bandung</li>
-              <li class="list-group-item">West Java, Indonesia</li>
+              <li class="list-group-item">Komplek SCBD, Distric 8</li>
+              <li class="list-group-item">Jakarta, Indonesia</li>
             </ul>
           </div>
 
@@ -293,7 +299,7 @@ $gambar1 = $resultGambar1['media_url'];
       <div class="container">
         <div class="row">
           <div class="col text-center">
-            <p>Copyright &copy; 2018.</p>
+            <p>Siva Rahmatullah &copy; 2025.</p>
           </div>
         </div>
       </div>
